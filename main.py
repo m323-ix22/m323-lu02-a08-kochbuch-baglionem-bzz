@@ -60,3 +60,4 @@ if __name__ == '__main__':
     adjusted_recipe_6 = adjust_recipe(original_recipe, 6)
     print('\nAngepasstes Rezept für 6 Personen:')
     print(json.dumps(adjusted_recipe_6, indent=4))
+
